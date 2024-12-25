@@ -1,4 +1,4 @@
 # first-repo
 first git-repo
 <br>
-author - lehar joshi
+author - lehar laxmi joshi
